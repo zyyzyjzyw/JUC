@@ -1,4 +1,4 @@
-package com.tedu.java;
+package com.tedu.java.testThread;
 
 public class TestRunnableLombok {
     public static void main(String[] args) {

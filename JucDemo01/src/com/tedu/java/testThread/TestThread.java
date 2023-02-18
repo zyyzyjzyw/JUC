@@ -1,4 +1,4 @@
-package com.tedu.java;
+package com.tedu.java.testThread;
 
 
 public class TestThread {
