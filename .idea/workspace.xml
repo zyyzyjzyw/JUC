@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db86b26e-1854-4d0e-8d5b-7ba0468c2b8c" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2MMy93CAUx9A13qzMJw2NmgPWNK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db86b26e-1854-4d0e-8d5b-7ba0468c2b8c" name="默认更改列表" comment="" />
+      <created>1677591590392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677591590392</updated>
+      <workItem from="1677591593320" duration="638000" />
+      <workItem from="1677592746563" duration="380000" />
+    </task>
+    <task id="LOCAL-00001" summary="20230228">
+      <created>1677592792485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677592792485</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20230228" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230228" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="757" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1677591756213">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="757" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1677591756213" />
+    <state x="458" y="1" key="CommitChangelistDialog2" timestamp="1677592791659">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="458" y="1" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1677592791659" />
+    <state x="335" y="56" key="SettingsEditor" timestamp="1677592049123">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="335" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1677592049123" />
+    <state x="451" y="181" key="Vcs.Push.Dialog.v2" timestamp="1677593005678">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="451" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1677593005678" />
+  </component>
+</project>
