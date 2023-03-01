@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db86b26e-1854-4d0e-8d5b-7ba0468c2b8c" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JucDemo03/src/main/java/com/tedu/java/demo01/Downloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JucDemo03/target/classes/com/tedu/java/demo01/Downloader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JucDemo03/target/classes/com/tedu/java/demo01/GuardedObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JucDemo03/target/classes/com/tedu/java/demo01/TestDemo08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JucDemo03/src/main/java/com/tedu/java/demo01/TestDemo08.java" beforeDir="false" afterPath="$PROJECT_DIR$/JucDemo03/src/main/java/com/tedu/java/demo01/TestDemo08.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +35,27 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestDemo08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tedu.java.demo01.TestDemo08" />
+      <module name="JucDemo03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tedu.java.demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDemo08" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -42,7 +68,8 @@
       <option name="presentableId" value="Default" />
       <updated>1677591590392</updated>
       <workItem from="1677591593320" duration="638000" />
-      <workItem from="1677592746563" duration="380000" />
+      <workItem from="1677592746563" duration="1449000" />
+      <workItem from="1677671866709" duration="4031000" />
     </task>
     <task id="LOCAL-00001" summary="20230228">
       <created>1677592792485</created>
@@ -51,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677592792485</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20230228">
+      <created>1677593295817</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677593295817</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,17 +100,33 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="757" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1677591756213" />
-    <state x="458" y="1" key="CommitChangelistDialog2" timestamp="1677592791659">
+    <state x="458" y="1" key="CommitChangelistDialog2" timestamp="1677593295397">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="458" y="1" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1677592791659" />
-    <state x="335" y="56" key="SettingsEditor" timestamp="1677592049123">
+    <state x="458" y="1" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1677593295397" />
+    <state width="1109" height="240" key="GridCell.Tab.0.bottom" timestamp="1677674880934">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="335" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1677592049123" />
-    <state x="451" y="181" key="Vcs.Push.Dialog.v2" timestamp="1677593005678">
+    <state width="1109" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1677674880934" />
+    <state width="1109" height="240" key="GridCell.Tab.0.center" timestamp="1677674880934">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="451" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1677593005678" />
+    <state width="1109" height="240" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1677674880934" />
+    <state width="1109" height="240" key="GridCell.Tab.0.left" timestamp="1677674880934">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1109" height="240" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1677674880934" />
+    <state width="1109" height="240" key="GridCell.Tab.0.right" timestamp="1677674880934">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1109" height="240" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1677674880934" />
+    <state x="335" y="56" key="SettingsEditor" timestamp="1677674544640">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="335" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1677674544640" />
+    <state x="451" y="181" key="Vcs.Push.Dialog.v2" timestamp="1677680391691">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="451" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1677680391691" />
   </component>
 </project>
